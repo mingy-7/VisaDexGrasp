@@ -13,7 +13,7 @@ const title = 'VisaDexGrasp_VisaDexGrasp_'
 const title_color = '#000000'
 
 // 标题补充，没有则置为''即可
-const title_supp = ' (Vue based)'
+const title_supp = ''
 
 // 标题补充颜色
 const title_supp_color = '#42B883'
