@@ -7,7 +7,7 @@ import { Document, Files, MagicStick, Picture, DataAnalysis, Film } from '@eleme
 const logo = './logo.png'
 
 // 标题
-const title = 'VisaDexGrasp'
+const title = 'VisaDexGrasp_VisaDexGrasp_'
 
 // 标题颜色
 const title_color = '#000000'
